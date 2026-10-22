@@ -4,7 +4,7 @@
 
 ## 下载
 
-- **精校版 PDF**：请前往 [Releases](https://github.com/ruankaodaren/ruankao/releases) 下载最新版本。
+- **精校版 PDF**：请前往 [Releases]([https://github.com/ruankaodaren/ruankao/releases](https://github.com/MrKQA/Information-Security-Engineer-Tutorial-2nd-Edition-/releases)) 下载最新版本。
 - **PDF 扫描件**：[点击查看扫描件](https://github.com/ruankaodaren/ruankao/blob/master/02%E3%80%81%E4%B8%AD%E7%BA%A7%EF%BC%88%E5%AE%98%E6%96%B9%E6%95%99%E6%9D%90%EF%BC%89/09%E3%80%81%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%B7%A5%E7%A8%8B%E5%B8%88/01%E3%80%81%E3%80%8A%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%95%99%E7%A8%8B%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%E3%80%8B.pdf)
 
 ## 校对说明
@@ -18,7 +18,7 @@
 
 如发现错误，请提交 Issue：
 
-- Issue 地址：<https://github.com/ruankaodaren/ruankao/issues>
+- Issue 地址：<[https://github.com/ruankaodaren/ruankao/issues](https://github.com/MrKQA/Information-Security-Engineer-Tutorial-2nd-Edition-/issues)>
 
 提交时建议注明：
 
