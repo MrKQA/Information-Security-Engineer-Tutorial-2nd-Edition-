@@ -18,7 +18,7 @@
 
 如发现错误，请提交 Issue：
 
-- Issue 地址：<[https://github.com/ruankaodaren/ruankao/issues](https://github.com/MrKQA/Information-Security-Engineer-Tutorial-2nd-Edition-/issues)>
+- Issue 地址：<[https://github.com/MrKQA/Information-Security-Engineer-Tutorial-2nd-Edition-/issues](https://github.com/MrKQA/Information-Security-Engineer-Tutorial-2nd-Edition-/issues)>
 
 提交时建议注明：
 
